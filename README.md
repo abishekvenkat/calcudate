@@ -32,8 +32,6 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:6464` to see the application in action.
 
-```
-
 ## Acknowledgments
 
 - Inspired by various date calculation tools available online.
